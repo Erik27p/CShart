@@ -1,0 +1,11 @@
+Sorted Numbers using selection_sort:
+1
+1
+2
+2
+3
+3
+3
+5
+12
+123
